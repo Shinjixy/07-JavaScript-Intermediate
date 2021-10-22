@@ -1,0 +1,10 @@
+### Soal - 01
+Kamu diminta untuk melakukan analisa sederhana terhadap beberapa masalah dan tuliskan jawaban kamu di dalam file `07-web-storage-01.txt`.
+1. Apa itu `localStorage`?
+2. Apa itu `cookies`?
+3. Apa perbedaan antara `localStorage` dan `sessionStorage`?
+
+jawaban
+1. localStorage merupakan tempat penyimpanan yang disediakan oleh web untuk menyimpan suatu objek tanpa ada kadaluarsa
+2. cookies merupakan data yang disimpan dalam bentuk teks pada browser komputer
+3. localStorage dapat menyimpan data secara permanen, sedangkan sessionStorage menyimpan data, tetapi jika browser ditutup data akan hilang
